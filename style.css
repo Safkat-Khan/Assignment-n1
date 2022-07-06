@@ -90,17 +90,18 @@ h3{
     font-style:oblique;
 }
 .donate-today{
+    padding-top: 5%;
     padding-left: 100px;
     padding-right: 100px;
 }
 .our-comment{
     color:rgb(185, 181, 181)
 }
-.first{
+#first{
     width: 20%;
-    margin-left: 5px;
-    margin-right: 5px;
-    padding-left: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
     padding: 2%;
     color: dimgray;
     box-shadow:  0px 0px;  
@@ -108,34 +109,34 @@ h3{
     border-radius: 5px;
     
 }
-.second{
+#second{
     width: 20%;
     color: red;
-    margin-left: 5px;
-    margin-right: 5px;
-    padding-left: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
     padding: 2%;
     border: 2px solid red;
     box-shadow: 0px 0px ; 
     background-color: rgb(245, 183, 183);
     border-radius: 5px;
 }
-.third{
+#third{
     width: 20%;
-    margin-left: 5px;
-    margin-right: 5px;
-    padding-left: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
     padding: 2%;
     color: dimgray;
     box-shadow:  0px 0px ;
     background-color:  rgb(214, 214, 214);
     border-radius: 5px;
 }
-.forth{
+#forth{
     width: 20%;
-    margin-left: 5px;
-    margin-right: 5px;
-    padding-left: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
     padding: 2%;
     color: dimgray;
     box-shadow: 0px 0px ;
@@ -143,11 +144,11 @@ h3{
     border-radius: 5px;
 }
 
-.fifth{
+#fifth{
     width: 20%;
-    margin-left: 5px;
-    margin-right: 5px;
-    padding-left: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
     padding: 2%;
     color: dimgray;
     box-shadow:  0px 0px;
@@ -157,7 +158,75 @@ h3{
 .donate-today{
 text-align: center;
 }
+.otheramount{
+    padding: %;
+}
 
 .donate-plan{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.plan-details{
+color:rgb(185, 181, 181)
+}
+.donate-nowbutton{
+    text-align:  center;
+    text-decoration:none;
+    background-image: linear-gradient(rgb(204, 45, 45),rgb(214, 89, 89));
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+   
+    }
+}
+
+.seemore-link{
+   
+    text-decoration: none;
+    background-image: linear-gradient(rgb(66, 65, 74),);
+    color: rgb(201, 82, 82);
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+.artical{
+    display: flex;
+    padding-left:5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+}
+.my-update{
+    text-align: center;
+}
+.updateinfo{
+ text-align: center;
+ text-align: ;
+ color:rgb(185, 181, 181) ;
+}
+
+
+.box{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #d4d4d4;
+    padding: 50px;
+    background-color:rgb(169, 177, 186);
+    padding-bottom: 100px;
+  }
+  .insidebox{
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+.be{
+    text-align: center;
+    text-align: center;
+}
+    
+.I-am{
+    color: rgb(0, 0, 0);
     text-align: center;
 }
