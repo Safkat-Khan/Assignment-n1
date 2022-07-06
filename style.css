@@ -37,4 +37,10 @@ font-weight: 700;
     text-align: center;
     padding: 70px;
     font-weight: 700;
+    text-align: center;
+}
+.essential-item{
+    display: flex;
+    text-align: justify;
+    
 }
