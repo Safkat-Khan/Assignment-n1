@@ -9,9 +9,10 @@ h1{
     font-size: 50px;
 }
 
-h4{
-font-size: 20px;
+h2{
+    font-size: 30px;
 }
+
 
 .text{
     text-align: center;
@@ -39,22 +40,99 @@ color: white;
 font-weight: 700;
 }
 
-.donate-today{
+.amount{
     color:black;
     text-align: center;
     padding: 70px;
     font-weight: 700;
     text-align: center;
 }
+
 .essential-item{
     display: flex;
-    text-align: justify;
+
 }
 
 .third-width{
     width: 33%;
     margin-left: 5px;
-    margin-right: 25px;
-    padding: 5%;
-    box-shadow: 10px 10px gray;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding: 2%;
+    box-shadow: 10px 10px white;  
+    text-align: justify;
+
+}
+.food{
+    
+    background-color: rgb(201, 206, 210);
+    padding: 10%;
+}
+.shelter{
+    background-color:rgb(185, 219, 208);
+    padding: 10%;
+}
+.education{
+background-color: rgb(212, 175, 175);
+padding: 10%;
+}
+
+.amount{
+    display: flex;
+}
+
+h3{
+    
+    font-style:oblique;
+}
+
+.first{
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding: 2%;
+    
+    box-shadow: 10px 10px rgb(5, 5, 5);  
+    
+}
+.second{
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding: 2%;
+    box-shadow: 10px 10px rgb(5, 5, 5); 
+}
+.third{
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding: 2%;
+    box-shadow: 10px 10px rgb(5, 5, 5);
+}
+.forth{
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding: 2%;
+    box-shadow: 10px 10px rgb(5, 5, 5);
+}
+
+.fifth{
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding: 2%;
+    box-shadow: 10px 5px 10px rgb(172, 170, 170);
+}
+.donate-today{
+text-align: center;
+}
+
+.donate-plan{
+    text-align: center;
 }
