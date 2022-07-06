@@ -11,11 +11,11 @@ body{
     color:rgb(255, 255, 255);
     font-weight:700;
     height: 50%;
-    padding: 200px;
+    padding: 300px;
 }
 
 .top-banner{
-    background-image: url("images/donation3.jpg");
+    background-image: url("images/donation7.jpg");
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -33,10 +33,8 @@ font-weight: 700;
 }
 
 .donate-today{
-    color: red;
+    color:black;
     text-align: center;
     padding: 70px;
-}
-section{
-    
+    font-weight: 700;
 }
