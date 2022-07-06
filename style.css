@@ -228,6 +228,7 @@ color:rgb(185, 181, 181)
    
   }
   .footer {
+    font-style: italic;
     padding: 10px;
     left: 0;
     bottom: 0;
