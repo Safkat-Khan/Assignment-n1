@@ -209,24 +209,30 @@ color:rgb(185, 181, 181)
 
 
 .box{
-    margin: auto;
-    width: 60%;
+    margin:auto;
+    width: 30%;
     border: 3px solid #d4d4d4;
     padding: 50px;
     background-color:rgb(169, 177, 186);
     padding-bottom: 100px;
+    padding-bottom: 50px;
   }
-  .insidebox{
-    text-align: center;
-    padding-bottom: 20px;
+  .Sub{
+    text-align:center;
+    text-decoration:none;
+    background-image: linear-gradient(rgb(204, 45, 45),rgb(214, 89, 89));
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+   
   }
-
-.be{
+  .footer {
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(124, 108, 108);
     text-align: center;
-    text-align: center;
-}
-    
-.I-am{
-    color: rgb(0, 0, 0);
-    text-align: center;
-}
+ }
+ 
