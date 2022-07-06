@@ -1,20 +1,24 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
-
-.bg {
+    margin: 0px;
     background-image: url("donation6.jpg");
-
-    height: auto;
-    weight: 100%;
-    margin: 0;
-  
-   
+    height: 50%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .text{
+    background-size:cover;
+}
+
+.text{
     text-align: center;
-    color:black;
+    color:white;
+    font-weight:700;
+}
+.donate-button{
+text-decoration:none;
+background-image: linear-gradient(rgb(204, 45, 45),rgb(214, 89, 89));
+padding: 15px;
+border-radius: 5px;
+color: white;
+font-weight: 700;
   }
