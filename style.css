@@ -1,19 +1,28 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
-    margin: 0px;
-    background-image: url("donation6.jpg");
-    height: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
+    margin:0%;
+   
 }
+
 
 .text{
     text-align: center;
-    color:white;
+    color:rgb(255, 255, 255);
     font-weight:700;
+    height: 50%;
+    padding: 200px;
 }
+
+.top-banner{
+    background-image: url("images/donation3.jpg");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:normal;
+
+}
+
 .donate-button{
 text-decoration:none;
 background-image: linear-gradient(rgb(204, 45, 45),rgb(214, 89, 89));
@@ -21,4 +30,13 @@ padding: 15px;
 border-radius: 5px;
 color: white;
 font-weight: 700;
-  }
+}
+
+.donate-today{
+    color: red;
+    text-align: center;
+    padding: 70px;
+}
+section{
+    
+}
