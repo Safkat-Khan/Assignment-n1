@@ -6,7 +6,8 @@ body{
 }
 
 h1{
-    font-size: 50px;
+    font-size: 60px;
+    
 }
 
 h2{
@@ -30,7 +31,9 @@ h2{
     background-position:normal;
 
 }
-
+.fst-sml{
+    color:rgb(185, 181, 181)
+}
 .donate-button{
 text-decoration:none;
 background-image: linear-gradient(rgb(204, 45, 45),rgb(214, 89, 89));
@@ -79,30 +82,43 @@ padding: 10%;
 
 .amount{
     display: flex;
+   
 }
 
 h3{
     
     font-style:oblique;
 }
-
+.donate-today{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.our-comment{
+    color:rgb(185, 181, 181)
+}
 .first{
     width: 20%;
     margin-left: 5px;
     margin-right: 5px;
     padding-left: 5px;
     padding: 2%;
-    
-    box-shadow: 10px 10px rgb(5, 5, 5);  
+    color: dimgray;
+    box-shadow:  0px 0px;  
+    background-color:  rgb(214, 214, 214);
+    border-radius: 5px;
     
 }
 .second{
     width: 20%;
+    color: red;
     margin-left: 5px;
     margin-right: 5px;
     padding-left: 5px;
     padding: 2%;
-    box-shadow: 10px 10px rgb(5, 5, 5); 
+    border: 2px solid red;
+    box-shadow: 0px 0px ; 
+    background-color: rgb(245, 183, 183);
+    border-radius: 5px;
 }
 .third{
     width: 20%;
@@ -110,7 +126,10 @@ h3{
     margin-right: 5px;
     padding-left: 5px;
     padding: 2%;
-    box-shadow: 10px 10px rgb(5, 5, 5);
+    color: dimgray;
+    box-shadow:  0px 0px ;
+    background-color:  rgb(214, 214, 214);
+    border-radius: 5px;
 }
 .forth{
     width: 20%;
@@ -118,7 +137,10 @@ h3{
     margin-right: 5px;
     padding-left: 5px;
     padding: 2%;
-    box-shadow: 10px 10px rgb(5, 5, 5);
+    color: dimgray;
+    box-shadow: 0px 0px ;
+    background-color:  rgb(214, 214, 214);
+    border-radius: 5px;
 }
 
 .fifth{
@@ -127,7 +149,10 @@ h3{
     margin-right: 5px;
     padding-left: 5px;
     padding: 2%;
-    box-shadow: 10px 5px 10px rgb(172, 170, 170);
+    color: dimgray;
+    box-shadow:  0px 0px;
+    background-color:  rgb(214, 214, 214);
+    border-radius: 5px;
 }
 .donate-today{
 text-align: center;
